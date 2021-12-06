@@ -1,0 +1,10 @@
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\bin\Debug\CevreAlaniHesaplama.exe.config
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\bin\Debug\CevreAlaniHesaplama.exe
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\bin\Debug\CevreAlaniHesaplama.pdb
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.csproj.AssemblyReference.cache
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.Form1.resources
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.Properties.Resources.resources
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.csproj.GenerateResource.cache
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.exe
+C:\Users\LAB\source\repos\CevreAlaniHesaplama\CevreAlaniHesaplama\obj\Debug\CevreAlaniHesaplama.pdb
